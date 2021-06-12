@@ -15,5 +15,10 @@ body {
 
 .wrapper {
     background-color: rgba(255 , 255 , 255 , 0.5);
+}
 
+@media (max-width: 520px) {
+    .times {
+        text-align: center;
+    }
 }
